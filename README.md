@@ -5,7 +5,7 @@ Ready to use packages bundle:
 4. adminer (http://mainhostipaddress:8082) as additional UI that can directly access the database.
 
 Requirement:
-1. *nix host environment with sudo or root access.
+1. *nix host environment with sudo or root access. Recommended fedora core os (FCOS).
 2. docker and docker-compose installed.
    
 Usage :
