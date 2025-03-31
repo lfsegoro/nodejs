@@ -7,7 +7,7 @@ Ready to use packages bundle:
 You can see the detail on the docker-compose.yml
 Must be use on *nix host environment, that have docker and docker-compose installed.
 Usage : 
-     git clone https://github.com/lfsegoro/nodejs
+     git clone https://github.com/lfsegoro/nodejs \
      docker-compose up --build
 After that you can access the UI suing port 5000 or port 8082 as above mentioned.
 The database already have sample username for testing. you can check the radcheck table.
