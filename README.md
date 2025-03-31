@@ -13,7 +13,7 @@ Usage :
 1. git clone https://github.com/lfsegoro/nodejs.git
 2. docker-compose up --build
 
-You can learn the detail on the docker-compose.yml if you want to make modification.
+You can learn the detail on the docker-compose.yml if you want to see the password or make modification.
 
 After that you can access the UI suing port 5000 or port 8082 as above mentioned.
 
