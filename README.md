@@ -1,7 +1,7 @@
 Ready to use packages bundle:
 1. freeradius server 3.2.7 as radius server.
 2. postgresql 15
-3. nodejs backend (akses: http://mainhostipaddress:5000) as basic UI that can be more developed.
+3. nodejs backend (akses: http://mainhostipaddress:5000) as basic UI that can be use as basis of developing.
 4. adminer (http://mainhostipaddress:8082) as additional UI that can directly access the database.
 
 Requirement:
