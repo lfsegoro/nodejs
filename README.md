@@ -5,9 +5,9 @@ Ready to use packages bundle:
 4. adminer (http://mainhostipaddress:8082) as additional UI that can directly access the database.
 
 Requirement:
-0. Internet connection of the mainhost.
-1. *nix host environment with sudo or root access. Recommended fedora core os (FCOS).
-2. docker and docker-compose installed.
+1. Internet connection of the mainhost.
+2. *nix host environment with sudo or root access. Recommended fedora core os (FCOS).
+3. docker and docker-compose installed.
    
 Usage :
 1. git clone https://github.com/lfsegoro/nodejs.git
