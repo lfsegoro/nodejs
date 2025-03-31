@@ -9,7 +9,7 @@ Requirement:
 2. docker and docker-compose installed.
    
 Usage :
-1. git clone https://github.com/lfsegoro/nodejs
+1. git clone https://github.com/lfsegoro/nodejs.git
 2. docker-compose up --build
 
 You can learn the detail on the docker-compose.yml if you want to make modification.
